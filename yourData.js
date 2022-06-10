@@ -6,7 +6,7 @@ export default {
   name: "Manish",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Manish Gurung aka. Jungey - A tech guy in love with music and mountains based in New Delhi, India. ",
+    "I'm Manish Gurung aka. Jungey - A tech guy in love with music and mountains based in Kathmandu,Nepal. ",
 
   socials: [
     { title: "Github", link: "https://github.com/manisjunggrg" },
